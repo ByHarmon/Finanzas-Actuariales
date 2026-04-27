@@ -1,4 +1,4 @@
-# 🐍 Finanzas con Python
+# 🐍 Finanzas Actuariales
 
 Este repositorio reúne distintos proyectos y notebooks creados por Farid Ríos, enfocados en el mundo de finanzas y análisis de datos con distintas herramientas de programación. 
 
