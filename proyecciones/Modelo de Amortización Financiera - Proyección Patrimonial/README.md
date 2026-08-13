@@ -1,4 +1,4 @@
-# 📊 Modelo de Amortización Financiera — Proyección Patrimonial de x a x años
+# 📊 Modelo de Amortización Financiera — Proyección Patrimonial al Momento de Jubilación
 
 Modelo determinístico en Excel que proyecta, **mes a mes**, la situación patrimonial de una persona durante su retiro, para responder una pregunta central:
 
